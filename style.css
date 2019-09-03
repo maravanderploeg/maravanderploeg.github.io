@@ -88,13 +88,8 @@ a
   font-size: 18px;
 }
 
-@media (max-width: 800px){
+@media (max-device-width: 800px){
 	#topnav a {
-	  float: left;
-	  color: #f2f2f2;
-	  text-align: center;
-	  padding: 14px 20px;
-	  text-decoration: none;
 	  font-size: 36px;
 	}
 }
